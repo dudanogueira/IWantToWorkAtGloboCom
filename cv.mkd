@@ -26,50 +26,65 @@ dudanogueira@gmail.com
 Contatos:
 +55 31 9985 1271 +55 33 3521 8037 +55 33 3522 1759
 ￼
-__CURRICULUM VITAE__
+__CURRICULO__
 José Eduardo Campos “Duda” Nogueira Email: dudanogueira@gmail.com
 Website: http://dudanogueira.com.br
 github (repositório de programação): http://github.com/dudanogueira/
-Formação
+
+__Formação__
 Graduação em Relações Públicas pela Pontifícia Universidade Católica de Minas Gerais em 2007 ­ Participação de cursos e eventos na área de Tecnologia da Informação.
+
 Pós Graduação não concluída em Gerenciamento de Projetos, pela PUCMINAS.
+
 Inglês fluente, adquirido através de estudos no Canadá (6 meses). Espanhol intermediário.
-Experiência profissional
-● 2012 a Atualmente ­ Coordenador Geral da Latinoware (http://latinoware.org), Conferência Latino Americana de Tecnologia Software Livre, um dos maiores e mais importantes eventos de Tecnologia do mundo, recebendo mais de 150 Palestrantes nacionais e Internacionais e 4.000 participantes nas dependências da Usina Hidroelétrica de ITAIPU, em Foz do Iguaçu, Paraná.
-● Novembro/2011 a Atualmente ­ Consultor em Tecnologia atendendo empresas como GlobalGeo (http://globalgeo.com.br), uLevel (http://ulevel.com), HiperConvites (http://hiperconvites.com.br), Atmosphera (http://atmosphera.ind.br), SELTEC (http://seltecminas.com.br), Critical Links (http://www.critical­links.com), Mestria Tecnologia e Automação (http://www.mestria.com.br) e Escola Pequeno Príncipe (http://epp.g12.br). É também Gerente de Tecnologia da Start Up mineira Data Goal (http://www.datagoal.com.br)
+
+__Experiência profissional__
+
+2012 a Atualmente ­ Coordenador Geral da Latinoware (http://latinoware.org), Conferência Latino Americana de Tecnologia Software Livre, um dos maiores e mais importantes eventos de Tecnologia do mundo, recebendo mais de 150 Palestrantes nacionais e Internacionais e 4.000 participantes nas dependências da Usina Hidroelétrica de ITAIPU, em Foz do Iguaçu, Paraná.
+
+Novembro/2011 a Atualmente ­ Consultor em Tecnologia atendendo empresas como GlobalGeo (http://globalgeo.com.br), uLevel (http://ulevel.com), HiperConvites (http://hiperconvites.com.br), Atmosphera (http://atmosphera.ind.br), SELTEC (http://seltecminas.com.br), Critical Links (http://www.critical­links.com), Mestria Tecnologia e Automação (http://www.mestria.com.br) e Escola Pequeno Príncipe (http://epp.g12.br). É também Gerente de Tecnologia da Start Up mineira Data Goal (http://www.datagoal.com.br)
 ￼￼￼￼￼￼￼￼￼￼￼￼
-￼● SETEMBRO/2008 ­ Novembro/2011 ­ Gerente de produtos e contratos na International Syst SA / Metasys Linux (http://www.metasys.com.br), atuando no âmbito nacional e Internacional em projetos como o UCA (150.000 laptops + Servidores), Digitando o Futuro (50 Servidores + 1.000 estações), Tiradentes Digital, Ministério das Comunicações (15.000 Telecentros em todo o Brasil), UCA Araucária (6.000 laptops + 16 Servidores), Projeto Piraí Digital além de contato comercial de países de língua inglesa como Nigéria, Porto Rico, dentre outros.
-● MAIO/2008 a SETEMBRO/2008 ­ Analista de Sistemas Web da agência de comunicação Lápis Raro (http://www.lapisraro.com.br), referência em qualidade e criatividade em publicidade e sistemas web em Minas Gerais.
-● DEZ/2007 a MAI/2008 – Estudo e prática da língua inglesa no Canadá por 3 meses e trabalhos diversos nos meses restantes. (total de 6 meses)
-● OUT/2007 – Lecionei cursos de GNU/Linux (60 horas) para cerca de 80 estudantes na Pontifícia Universidade Católica de Betim.
-● ABRIL/2007 A AGO/2007, Trabalhei como consultor de projetos da UFMG/FAE/CECIMIG (http://cecimig.fae.ufmg.br) com serviços e soluções, promovendo a migração de mais de 100 estações de trabalho para o ambiente Linux dentro da UFMG
-● MAIO/2002 a MAR/2007 – 5 anos de experiência na LPJ Editora Gráfica (http://www.lpj.com.br ­ Empresa não atua mais no mercado), empresa de pequeno porte em BH, líder no mercado Convites de Formatura. Atuei como Gerente de TI, lidando com clientes externos e internos. Começando como estagiário e posteriormente contratado como Analista de Sistemas.
-● Antes de 2002 ­ Desenvolvi o primeiro site cultural de Teófilo Otoni (TÔVIP), Editor de uma coluna semanal no jornal Tribuna do Mucuri, trabalhando também na área de diagramação do jornal e no museu virtual da cidade.
+SETEMBRO/2008 ­ Novembro/2011 ­ Gerente de produtos e contratos na International Syst SA / Metasys Linux (http://www.metasys.com.br), atuando no âmbito nacional e Internacional em projetos como o UCA (150.000 laptops + Servidores), Digitando o Futuro (50 Servidores + 1.000 estações), Tiradentes Digital, Ministério das Comunicações (15.000 Telecentros em todo o Brasil), UCA Araucária (6.000 laptops + 16 Servidores), Projeto Piraí Digital além de contato comercial de países de língua inglesa como Nigéria, Porto Rico, dentre outros.
+
+MAIO/2008 a SETEMBRO/2008 ­ Analista de Sistemas Web da agência de comunicação Lápis Raro (http://www.lapisraro.com.br), referência em qualidade e criatividade em publicidade e sistemas web em Minas Gerais.
+
+DEZ/2007 a MAI/2008 – Estudo e prática da língua inglesa no Canadá por 3 meses e trabalhos diversos nos meses restantes. (total de 6 meses)
+
+OUT/2007 – Lecionei cursos de GNU/Linux (60 horas) para cerca de 80 estudantes na Pontifícia Universidade Católica de Betim.
+
+ABRIL/2007 A AGO/2007, Trabalhei como consultor de projetos da UFMG/FAE/CECIMIG (http://cecimig.fae.ufmg.br) com serviços e soluções, promovendo a migração de mais de 100 estações de trabalho para o ambiente Linux dentro da UFMG
+
+MAIO/2002 a MAR/2007 – 5 anos de experiência na LPJ Editora Gráfica (http://www.lpj.com.br ­ Empresa não atua mais no mercado), empresa de pequeno porte em BH, líder no mercado Convites de Formatura. Atuei como Gerente de TI, lidando com clientes externos e internos. Começando como estagiário e posteriormente contratado como Analista de Sistemas.
+
+Antes de 2002 ­ Desenvolvi o primeiro site cultural de Teófilo Otoni (TÔVIP), Editor de uma coluna semanal no jornal Tribuna do Mucuri, trabalhando também na área de diagramação do jornal e no museu virtual da cidade.
 ￼￼￼￼
-￼Envolvimento com Eventos e Software Livre
-● Consultor contratado pelo PTI (Praque Tecnológico de ITAIPU) como Coordenador Geral de Grade da Latinoware, a Conferência Latino Americana de Software Livre em Foz do Iguaçu no Paraná, tendo atuando na Latinoware 2012 e Latinoware 2013 e Latinoware 2014
-● Organizou o EMSL 2012 ­ Encontro Mineiro de Software Livre em Teófilo Otoni na UFVJM, trazendo cerca de 10 palestrantes de todo o Brasil. (http://emsl.softwarelivre.org/)
-● Atualmente desenvolve o Duda Library, Projeto Software Livre que visa mapear, indexar e redistribuir REAs (Recursos Educacionais Abertos) para escolas com pouca em nenhuma conectividade. O Projeto é reconhecido e já foi demonstrado em eventos como o FISL (http://fisl.org.br) ­ Forum Internacional de Software Livre e comunidade REA (http://rea.net.br/site/duda­nogueira/).
-● Como membro Oficial do Ubuntu, trabalhou junto ao o Time Ubuntu Brasil para representar a comunidade em todo o país com palestras, treinamentos, trabalhos de tradução, checagem e endereçamento de bugs, administração de servidores, etc.
-● Foi conselheiro da comunidade Ubuntu Linux para as Américas e conselheiro da comunidade Ubuntu Linux Brasil
-● Desenvolveu e pesquisou no grupo de documentação AsteriskOnUbuntu (http://wiki.ubuntu.com/AsteriskOnUbuntu)
-● Participou como palestrante no EMSL06, FSL­BA06, EMSL07, 08, 10. FISL07, FISL 10, Latinoware'08 , 09 e 10, FGSL09 (Fórum Goiano de Sofrware Livre de 2009 e 2010), FSL­BH09, FSL­BH10 (Festival de Software Livre de Belo Horizonte), FLISOL­BH 08, 09 e 10, Semana da Ciência e Tecnologia de São Mateus, em 2013, Conferência Paraguaia de Software Livre ­ 2011 na UNASUR, em Assunção no Paraguai, Lecionou cursos de programação no VI Simpósio de Informática no IFNMG ­ Campus Januária.
+__Envolvimento com Eventos e Software Livre__
+
+Consultor contratado pelo PTI (Praque Tecnológico de ITAIPU) como Coordenador Geral de Grade da Latinoware, a Conferência Latino Americana de Software Livre em Foz do Iguaçu no Paraná, tendo atuando na Latinoware 2012 e Latinoware 2013 e Latinoware 2014
+
+Organizou o EMSL 2012 ­ Encontro Mineiro de Software Livre em Teófilo Otoni na UFVJM, trazendo cerca de 10 palestrantes de todo o Brasil. (http://emsl.softwarelivre.org/)
+
+Atualmente desenvolve o Duda Library, Projeto Software Livre que visa mapear, indexar e redistribuir REAs (Recursos Educacionais Abertos) para escolas com pouca em nenhuma conectividade. O Projeto é reconhecido e já foi demonstrado em eventos como o FISL (http://fisl.org.br) ­ Forum Internacional de Software Livre e comunidade REA (http://rea.net.br/site/duda­nogueira/).
+
+Como membro Oficial do Ubuntu, trabalhou junto ao o Time Ubuntu Brasil para representar a comunidade em todo o país com palestras, treinamentos, trabalhos de tradução, checagem e endereçamento de bugs, administração de servidores, etc.
+
+Foi conselheiro da comunidade Ubuntu Linux para as Américas e conselheiro da comunidade Ubuntu Linux Brasil
+
+Desenvolveu e pesquisou no grupo de documentação AsteriskOnUbuntu (http://wiki.ubuntu.com/AsteriskOnUbuntu)
+
+Participou como palestrante no EMSL06, FSL­BA06, EMSL07, 08, 10. FISL07, FISL 10, Latinoware'08 , 09 e 10, FGSL09 (Fórum Goiano de Sofrware Livre de 2009 e 2010), FSL­BH09, FSL­BH10 (Festival de Software Livre de Belo Horizonte), FLISOL­BH 08, 09 e 10, Semana da Ciência e Tecnologia de São Mateus, em 2013, Conferência Paraguaia de Software Livre ­ 2011 na UNASUR, em Assunção no Paraguai, Lecionou cursos de programação no VI Simpósio de Informática no IFNMG ­ Campus Januária.
 ￼￼￼￼
-￼Habilidades Específicas
-● XHTML / Webstandards, CSS, JavaScript, AJAX/ REST, AngularJS, Bootstrap
-● PHP, PYTHON, DJANGO, GEODJANGO, CELERY, REDIS, ElasticSearch
-● POSTGRES, MYSQL, MongoDB, Firebird, POSTGIS
-● SQUID, APACHE, OPENSSH, XMPP, OPEN VPN, BASH/SHELL, DHCP, Asterisk
-PABX Digital.
-● SUITE OPENOFFICE, SUITE ADOBE, SUITE OFFICE
-● Configuração de Modem, Roteadores e Redes Wireless, Dimensionamento de
-Rede.
-● Portugês e Inglês Fluente, Espanhol básico.
-Porque devo ser contratado
-Sou de fácil relacionamento. Busco sempre as melhores soluções tecnológicas, equilibrando sempre que possível ou necessário o custo e a eficácia.
-Possuo ótimo relacionamento na área de Tecnologia e uma grande rede de contatos, o que me garante acesso ao consultores e profissionais especializados.
-Lido bem com pressão, prazos curtos. Aprendo fácil, adoro compartilhar o que sei. AMO trabalhar com tecnologia!
+__Habilidades Específicas__
+XHTML / Webstandards, CSS, JavaScript, AJAX/ REST, AngularJS, Bootstrap
+PHP, PYTHON, DJANGO, GEODJANGO, CELERY, REDIS, ElasticSearch
+POSTGRES, MYSQL, MongoDB, Firebird, POSTGIS
+SQUID, APACHE, OPENSSH, XMPP, OPEN VPN, BASH/SHELL, DHCP, Asterisk, PABX Digital.
+SUITE OPENOFFICE, SUITE ADOBE, SUITE OFFICE
+Configuração de Modem, Roteadores e Redes Wireless, Dimensionamento de Rede.
+
+Portugês e Inglês Fluente, Espanhol básico.
+
+__Porque devo ser contratado__
+Sou de fácil relacionamento. Busco sempre as melhores soluções tecnológicas, equilibrando sempre que possível ou necessário o custo e a eficácia. Possuo ótimo relacionamento na área de Tecnologia e uma grande rede de contatos, o que me garante acesso ao consultores e profissionais especializados. Lido bem com pressão, prazos curtos. Aprendo fácil, adoro compartilhar o que sei. AMO trabalhar com tecnologia!
+
 Obrigado pelo seu tempo!
-
-
-
